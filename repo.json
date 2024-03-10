@@ -19,6 +19,15 @@
               "size": 221,
               "minOSVersion": "15.0",
               "maxOSVersion": "17.4"
+            },
+            {
+              "version": "1.0.2",
+              "date": "2024-02-27",
+              "localizedDescription": "Fixes many bugs and changes UI",
+              "downloadURL": "https://github.com/Bentheminernz/esignRepo/raw/main/ipas/Folium1.0.2.ipa",
+              "size": 231,
+              "minOSVersion": 15.0,
+              "maxOSVersion": 17.4
             }
           ]
       }
