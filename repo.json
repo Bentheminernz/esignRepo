@@ -28,6 +28,50 @@
               "size": 231,
               "minOSVersion": 15.0,
               "maxOSVersion": 17.4
+            },
+            {
+              "version": "1.0.3",
+              "date": "2024-02-29",
+              "localizedDescription": "Adds brand new Grape core (DS), haptic feedback to virtual controller & several smaller fixes",
+              "downloadURL": "https://github.com/Bentheminernz/esignRepo/raw/main/ipas/Folium1.0.3.ipa",
+              "size": 604,
+              "minOSVersion": 15.0,
+              "maxOSVersion": 17.4
+            },
+            {
+              "version": "1.0.4",
+              "date": "2024-03-05",
+              "localizedDescription": "Adds brand new Cytrus core (3DS) and GBA in Grape core",
+              "downloadURL": "https://github.com/Bentheminernz/esignRepo/raw/main/ipas/Folium1.0.4.ipa",
+              "size": 10400,
+              "minOSVersion": 15.0,
+              "maxOSVersion": 17.4
+            },
+            {
+              "version": "1.0.5",
+              "date": "2024-03-08",
+              "localizedDescription": "Adds brand new Sudachi core (Switch), TrollStore support, memory leak and virtual controller fixes",
+              "downloadURL": "https://github.com/Bentheminernz/esignRepo/raw/main/ipas/Folium1.0.5.ipa",
+              "size": 18100,
+              "minOSVersion": 15.0,
+              "maxOSVersion": 17.4
+            },
+            {
+              "version": "1.0.6 Cytrus",
+              "date": "2024-03-09",
+              "localizedDescription": "Updates Cytrus core to latest Citra version, fixes bugs",
+              "downloadURL": "https://github.com/Bentheminernz/esignRepo/raw/main/ipas/FoliumCytrus1.0.6.ipa",
+              "size": 18100,
+              "minOSVersion": 15.0,
+              "maxOSVersion": 17.4
+            },
+            {
+              "version": "1.0.6 Sudachi",
+              "date": "2024-03-09",
+              "localizedDescription": "Enables Switch game support, updates Sudachi core to latest Yuzu version, fixes bugs",
+              "downloadURL": "https://github.com/Bentheminernz/esignRepo/raw/main/ipas/FoliumSudachi1.0.6.ipa",
+              "minOSVersion": 15.0,
+              "maxOSVersion": 17.4
             }
           ]
       }
