@@ -13,10 +13,10 @@
           "versions": [
             {
               "version": "1.0.1",
-              "date": "2023-02-22",
+              "date": "2024-02-22",
               "localizedDescription": "Adds Kiwi Core",
               "downloadURL": "https://github.com/Bentheminernz/esignRepo/raw/main/ipas/Folium1.0.1.ipa",
-              "size": 79821,
+              "size": 221,
               "minOSVersion": "15.0",
               "maxOSVersion": "17.4"
             }
