@@ -72,6 +72,22 @@
               "downloadURL": "https://github.com/Bentheminernz/esignRepo/raw/main/ipas/FoliumSudachi1.0.6.ipa",
               "minOSVersion": 15.0,
               "maxOSVersion": 17.4
+            },
+            {
+              "version": "1.0.7 Cytrus",
+              "date": "2024-03-11",
+              "localizedDescription": "Support for thumbsticks on physical controllers, partial keyboard support, fixes bugs",
+              "downloadURL": "https://github.com/Bentheminernz/esignRepo/raw/main/ipas/Folium-Cytrus-v1.0.7.ipa",
+              "minOSVersion": 15.0,
+              "maxOSVersion": 17.4
+            },
+            {
+              "version": "1.0.7 Sudachi",
+              "date": "2024-03-11",
+              "localizedDescription": "Added ability to launch to Switch homescreen when firmware is available, left and right thumbstick support, fixes bugs",
+              "downloadURL": "https://github.com/Bentheminernz/esignRepo/raw/main/ipas/Folium-Sudachi-v1.0.7.ipa",
+              "minOSVersion": 15.0,
+              "maxOSVersion": 17.4
             }
           ]
       }
